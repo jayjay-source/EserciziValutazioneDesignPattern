@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bcc976b-415c-44b5-8006-bf54b35681a8" name="Changes" comment="Esercizio 6 completato">
+      <change afterPath="$PROJECT_DIR$/Esercizio1/src/ChatMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esercizio1/src/ChatRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esercizio1/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Esercizio1/src/UserConcreto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio6/Esercizio6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Esercizio1/Esercizio1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio6/src/Evento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio6/src/Partecipante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio6/src/StatoEvento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio6/src/StatoInCorso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio6/src/StatoInProgramma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio6/src/StatoTerminato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esercizio6/src/Utente.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Esercizio6byGabriele" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ginocamino"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jayjay-source/EserciziValutazioneDesignPattern.git",
+    "accountId": "a56d5949-111e-4b70-b93c-8aab3e0b5214"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2zP6KMrHVq1iWoTvcvYiF6yNNT1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Esercizio1ByGabriele",
+    "onboarding.tips.debug.path": "C:/Users/Ginocamino/OneDrive/Documenti/GitHub/EserciziValutazioneDesignPattern/Esercizio1/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bcc976b-415c-44b5-8006-bf54b35681a8" name="Changes" comment="" />
+      <created>1751620296583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751620296583</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Esercizio 6 completato">
+      <option name="closed" value="true" />
+      <created>1751632536765</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751632536765</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Esercizio 6 completato" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esercizio 6 completato" />
+  </component>
+</project>
