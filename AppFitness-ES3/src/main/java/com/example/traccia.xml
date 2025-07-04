@@ -1,0 +1,9 @@
+Esercizio 3: App di Fitness con Monitoraggio Stato Utente
+
+Implementa un'app che cambia comportamento a seconda dello stato fisico dell'utente
+(riposo, allenamento, recupero).
+
+Usa State per cambiare il comportamento in base allo stato.
+
+Usa Singleton per gestire un'unica istanza del profilo utente.
+
