@@ -1,4 +1,6 @@
-package com.example;
+package com.example.decorator;
+
+import com.example.testo.Testo;
 
 public abstract class DecoratorAstratto implements Testo{
 
@@ -8,8 +10,6 @@ public abstract class DecoratorAstratto implements Testo{
         this.testo = testo;
     }
 
-
-    
     @Override
     public String getContenuto(){
         return testo.getContenuto();

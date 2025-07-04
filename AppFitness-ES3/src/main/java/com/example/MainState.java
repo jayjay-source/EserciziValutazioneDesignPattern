@@ -1,6 +1,6 @@
 package com.example;
 
-public class Main {
+public class MainState {
     public static void main(String[] args) {
         
         //prendo l'instanza dell'Utente
