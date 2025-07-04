@@ -11,6 +11,7 @@ Esercizio 2, 5 e 9 delle Slide pagine 273-275
 
 BranchDiLuca(Aprile):
 Esercizio 3 Slide 271
+Esercizio 7 Slide 273
 
 Esercizio8:
 Esercizio 8 Slide 273
