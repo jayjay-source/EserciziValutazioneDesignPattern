@@ -6,13 +6,9 @@ Luca Aprile
 
 Esercizi di fine modulo sui DesignPattern
 
-JacopoBranch:
-Esercizio 2, 5 e 9 delle Slide pagine 273-275
+Jacopo: ECommerce, SistemaLogin, Streaming
 
-BranchDiLuca(Aprile):
-Esercizio 3 Slide 271
-Esercizio 7 Slide 273
+Luca Aprile: AppFitness-ES3, editortesto
 
-Esercizio8:
-Esercizio 8 Slide 273
+Gabriele: Esercizio 1, 
 
